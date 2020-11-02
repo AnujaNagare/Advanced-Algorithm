@@ -1,2 +1,2 @@
-# Advanced-Algorithm-
+# Advanced-Algorithm
 Lectures
